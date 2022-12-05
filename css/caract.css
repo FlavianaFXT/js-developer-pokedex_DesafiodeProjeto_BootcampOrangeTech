@@ -1,0 +1,161 @@
+.poke{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    background-color: #77c850;
+    height: 100%;
+    max-width: 100%;
+    border-radius: 1rem;
+}
+
+.normal {
+    background-color: #a6a877;
+}
+
+.grass {
+    background-color: green;
+    border-radius: 1rem;
+    display:flexbox;
+    filter:brightness(1.1);
+    max-width: 20%;
+    margin: 1rem;
+    text-align: center;
+}
+
+.fire {
+    background-color: #ee7f30;
+}
+
+.water {
+    background-color: #678fee;
+}
+
+.electric {
+    background-color: #f7cf2e;
+}
+
+.ice {
+    background-color: #98d5d7;
+}
+
+.ground {
+    background-color: #dfbf69;
+}
+
+.flying {
+    background-color: #a98ff0;
+}
+
+.poison {
+    background-color: #a040a0;
+    border-radius: 1rem;
+    display:flexbox;
+    filter:brightness(1.1);
+    max-width: 20%;
+    margin: 1rem;
+    text-align: center;
+}
+
+
+.fighting {
+    background-color: #bf3029;
+}
+
+.psychic {
+    background-color: #f65687;
+}
+
+.dark {
+    background-color: #725847;
+}
+
+.rock {
+    background-color: #b8a137;
+}
+
+.bug {
+    background-color: #a8b720;
+}
+
+.ghost {
+    background-color: #6e5896;
+}
+
+.steel {
+    background-color: #b9b7cf;
+}
+
+.dragon {
+    background-color: #6f38f6;
+}
+
+.fairy {
+    background-color: #f9aec7;
+}
+
+.caracteristicas{
+    display: flex;
+    flex-direction: column;
+    height: 50%;
+    margin-left: 2.5rem;
+    margin-top: -2rem;
+    max-width: 80%;
+    border-radius: 1rem;
+    background-color: #fff;
+}
+
+.pokemon1 .number{
+    display: flex;
+    flex-direction: column;
+    color: #000;
+    opacity: 0.3;
+   padding: auto;
+    max-width: 90%;
+    text-align: right;
+    font-size: 1.5rem;
+}
+
+.pokemon1 .name{
+    display: flex;
+    flex-direction: column;
+    text-transform: capitalize;
+    color: #fff;
+    margin-bottom: 1.5rem;
+    margin-top: 3rem;
+    margin-left: 2rem;
+    text-align: left;
+    font-size: 3rem;
+}
+
+img{
+    display: flex;
+    flex-direction: column;
+    max-width: 100%;
+    height: 400px;
+    margin-top: 1rem;
+}
+
+.types1{
+list-style: none;
+margin: 1rem;
+border: black;
+border-radius: 2rem;
+}
+
+.abilities{
+    text-align: left;
+    list-style: none;
+    margin-top: 2rem;
+    margin-left: 2rem;
+}
+
+.abilities1{
+    display: flexbox;
+    text-align: left;
+    margin-bottom: 1rem;
+    font-size: 2.5rem;
+    text-transform: capitalize;
+    color: #77c850;
+    list-style: none;
+}
+

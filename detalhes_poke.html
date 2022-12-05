@@ -25,27 +25,40 @@
         </head>
 
         <body>
-            <section class="content">
-                <h1>Pokedex</h1>     
-                        <ol id="pokemonList" class="pokemons">
-                            <!-- ..... Pokemons here ..... -->
+         
+            <ol id="pokemonDetails" class="poke">
+                        <!--carcateristicas dos pokemons-->
+
+                <li class="pokemon1">
+                    <span class="number">#001</span>
+    
+                    <span class="name">Bulbasaur</span>
+
+                    <div class="detail1">
+                        <ol class="types1">
+                            <li class="grass">Grass</li>
+                            <li class="poison">Poison</li>
                         </ol>
+                        <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/shiny/1.png" alt="img bulbasaur">
+                        
+                        <div class="caracteristicas">
+                            <h2 class="abilities">HABILIDADES</h2>
+                                <ol class="abilities1">
+                                    <li>overgrow</li> 
+                                    <li>chlorophyll</li>
+                                </ol>
+                        </div>
+                    </div>
+                </li>
+            </ol>
 
-                        <div class="pagination">
-                            <button id="loadMoreButton" type="button">
-                            Load More
-                            </button>
-                        </div>               
-            </section>
-
-            <!--Nosso JS-->
             <script src="JS/pokemon-model.js"></script>
             <script src="JS/poke-api.js"></script>
-            <script src="JS/main.js"></script>     
+            <script src="JS/main.js"></script>
             <script src="js/pokemon_model_caract.js"></script>
             <script src="js/pokemon-caract.js"></script>
             <script src="js/caract.js"></script>
             
+
         </body>
-        
     </html>
