@@ -1,6 +1,6 @@
 # Trilha JS Developer - Pokedex
 
-Projeto desenvolvido durante as aulas de Javascript da ![image](https://github.com/user-attachments/assets/a8052cb8-f32d-432a-9ed6-0ca0152bf885)
+Projeto desenvolvido durante as aulas de Javascript do `Bootcamp Orange Tech +` da ![image](https://github.com/user-attachments/assets/a8052cb8-f32d-432a-9ed6-0ca0152bf885)
 
 
 
