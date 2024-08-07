@@ -57,7 +57,8 @@ O projeto é constituído de 1 página simples, que trás os pokemons em cards, 
 Composto por um arquivo .html, outro .css, .js e uma pasta contendo as imagens utilizadas no projeto. Além do README com a descrição de todo o processo de elaboração do projeto.
 
 
------ INSERIR ------
+![image](https://github.com/user-attachments/assets/4c5058d2-8d95-431a-beb1-22c67460ca79)
+
 
 
 
